@@ -2,6 +2,7 @@
 title: 'CellSculptor: A 3D Volume Generator for Sample-Informed Biomaterial Photomodulation'
 tags:
   - biomaterials
+  - additive manufacturing
 authors:
   - name: Ryan M. Francis
     orcid: 0000-0002-3964-6090
