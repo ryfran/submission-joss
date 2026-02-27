@@ -150,6 +150,9 @@ jobs:
       - run: *pdfenv
       - run: *test
       - run: *pdf
+      - store_artifacts:
+          path: /tmp/paper
+          destination: paper
       - persist_to_workspace:
           root: /tmp
           paths:
